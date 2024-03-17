@@ -48,3 +48,4 @@ _[1]: These additionally uses full read permissions on `articles` & `directus_us
 - 🎬 Youtube — [Video tutorials](https://www.youtube.com/c/DirectusVideos)
 - 🐦 Twitter — [@directus](https://twitter.com/directus)
 - 💬 Chat — [Discord server](https://directus.chat)
+# astro-blog-ex-dev
